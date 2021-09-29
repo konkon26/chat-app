@@ -80,8 +80,8 @@
 
 .messages {
   background-color: #fafafa;
-  height: calc(100vw - 100px - 90px);
-  padding: 46px, 40px, 0;
+  height: calc(100vh - 100px - 90px);
+  padding: 46px 40px 0;
   overflow: scroll;
 }
 
@@ -117,7 +117,7 @@
 .form {
   background-color: #dddddd;
   height: 90px;
-  padding: 20px, 40px;
+  padding: 20px 40px;
   display: flex;
 }
 
